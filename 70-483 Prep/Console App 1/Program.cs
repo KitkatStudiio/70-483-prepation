@@ -44,7 +44,7 @@ namespace ConsoleApp1
             string output;
             //string lblMessage = output;
             output = string.Format("Temprature at {0:t} on {0:dd/mm/yy}", date, temp);
-            Console.WriteLine(output);
+            //Console.WriteLine(output);
 
         }
     }
